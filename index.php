@@ -1,7 +1,7 @@
-<?php $company = "LONE CACTUS LANDSCAPING, INC.";
-$phone = "(480) 471-3108";
-	$address1 = "23233 N PIMA RD STE 113";
-	$address2 = "SCOTTSDALE, AZ 85255";
+<?php $company = "TED'S GROOMING EMPORIUM & PET SUPPLY";
+$phone = "(858) 642-7443";
+	$address1 = "7057 FLOREY ST";
+	$address2 = "SAN DIEGO, CA 92122";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
@@ -73,8 +73,8 @@ $phone = "(480) 471-3108";
                     
                   </div>
                 </div>
-                <h3 class="u-text u-text-7">Get in touch</h3>
-                <h6 class="u-text u-text-8">Hey! We are looking forward to start a project with you!</h6>
+                <h3 class="u-text u-text-7">Hello</h3>
+                <h6 class="u-text u-text-8">Let's work together!</h6>
               </div>
             </div>
           </div>
